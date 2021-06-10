@@ -72,25 +72,7 @@ margin-right: 4px;
 }
 /* navbar end */
 /* header start */
-.container {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-.container img {
-      vertical-align: middle;
-      /* filter: blur(4px);
-      -webkit-filter: blur(4px); */
-}
-.container .content {
-    position: absolute;
-    bottom: 0;
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.7); /* Black background with 0.5 opacity */
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
-}
+
 /* header end */
 /* card start */
 .grid-container {
